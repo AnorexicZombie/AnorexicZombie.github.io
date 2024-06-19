@@ -958,7 +958,7 @@ timeout
 
 [CSS中用 opacity、visibility、display 属性将 元素隐藏 的 对比分析](https://segmentfault.com/a/1190000015116392)
 
-![](display opacity visibility 对比.png)
+<img src="display opacity visibility 对比.png"/>
 
 ***
 
